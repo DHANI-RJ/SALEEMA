@@ -1,0 +1,25 @@
+ body{
+background-color: aliceblue;
+}
+.first-row{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.pro-card{
+    border: 1px solid rgb(145, 134, 134);
+    margin: 20px;
+    padding: 20px;
+}
+button{
+    padding: 10px;
+    margin: 10px;
+    color: rgb(3, 3, 3);
+    border-radius: 4px;
+}
+.Header{
+    align-items: center;
+    justify-content: center;
+    padding: 20PX;
+    margin: 200PX;
+}
